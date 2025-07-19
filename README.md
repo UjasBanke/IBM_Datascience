@@ -35,16 +35,6 @@ the investor with incur a loss.  Determining the stock price is complex; it depe
 This course is intended to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project developing a dashboard using Python.
 
 
-## 📑 Main Topics 
-- [Web Scraping Lab](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/1%20Web%20Scraping%20Lab.ipynb)
-
-- [Extracting Stock Data Using a Python Library](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
-
-- [Extracting Stock Data Using a Web Scraping](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
-
-- [ Final Project - Extracting and Visualizing Stock Data](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
-
-
 
 ## 🔑 Key Skills Learned 
 - Data extraction using the yfinance library
