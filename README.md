@@ -32,7 +32,7 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 
 
-## 🔑 Key Skills Learned 
+## 🔑 Key Skills 
 - Data extraction using the yfinance library
 - Webscraping using the BeautifulSoup library
 - Data Analysis
